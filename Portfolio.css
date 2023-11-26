@@ -1,0 +1,150 @@
+.logo{
+	width:85px;
+}
+#change{
+	color:black;
+}
+.Banner{
+	background-image:url("https://res.cloudinary.com/dcodxtacf/image/upload/f_auto,q_auto/rpo0aspu2hbksxvupf3l");
+	height:100vh;
+	background-size:cover;
+}
+.gif{
+	margin-left:25px;
+	
+}
+ .gif { 
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTART2n01Ydhw_oluyrrv2lAi3yISfBdYkTox-tus5Mk_W1eDZuakyCkNAVEYzsYTgSuYs&usqp=CAU"); 
+            background-repeat: repeat; 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent; 
+            font-size: 60px;  
+            text-transform: uppercase; 
+            font-family: 'Steelfish Rg', 'helvetica neue', 
+                     helvetica, arial, sans-serif; 
+            font-weight: 800; 
+            -webkit-font-smoothing: antialiased; 
+        }
+.nif{
+    margin-left:5px;
+	 font-family: Copperplate, Papyrus, fantasy;
+
+	 
+}
+.lig{
+	background-color:#00008B;
+	margin-left:65px;
+	border:2px solid black;
+	color:white;
+	font-weight:bold;
+	padding:10px;
+	border-radius:15px;
+	filter:drop-shadow(5px 15px 10px #97e7f5);
+	
+	
+}
+.loi{
+	position:relative;
+	top:200px;
+	right:450px;
+}
+i{
+	width:25px;
+	height:24px;
+	position:relative;
+	top:80px;
+	right:105px;
+}
+.Banner-2{
+	background-color:white;
+	height:165vh;
+	background-size:cover;
+}
+#logo{
+	width:270px;
+}
+.uk-card{
+	transition:transform 0.3s ease-in-out;
+}
+.uk-card:hover{
+	transform:scale(1.1);
+}
+.About{
+	background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+	height:85vh;
+	background-size:cover;
+}
+.niki{
+	font-family: "Trirong", serif;
+	color:white;
+	position:relative;
+	top:55px;
+}
+.miki{
+	font-size:25px;
+	color:white;
+	position:relative;
+	top:85px;
+	padding:45px;
+}
+.skill{
+	background: hsla(212, 35%, 58%, 1);
+
+background: linear-gradient(90deg, hsla(212, 35%, 58%, 1) 0%, hsla(218, 32%, 80%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(212, 35%, 58%, 1) 0%, hsla(218, 32%, 80%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(212, 35%, 58%, 1) 0%, hsla(218, 32%, 80%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#6D90B9", endColorstr="#BBC7DC", GradientType=1 );
+	height:95vh;
+	background-size:cover;
+}
+#biki{
+	position:relative;
+	top:85px;
+}
+.mli{
+   color:white;
+   position:relative;
+	top:95px;
+	font-size:25px;
+}
+.liv {
+	color:black;
+    position:relative;
+	top:65px;
+	font-weight:bold;
+}
+.vilo{
+	position:relative;
+	top:70px;
+}
+.vilo-1{
+	position:relative;
+	top:70px;
+	color:white;
+	background-color:transparent;
+	border-radius:15px;
+	padding:15px;
+}
+button:hover{
+	background-color:#FFD700;
+}
+.footer{
+	background-color:black;
+	height:85vh;
+	background-size:cover;
+	
+}
+#jki{
+	color:#FFD700;
+}
+
+
+
+
+	
+	
+	
